@@ -1,0 +1,6 @@
+acisp2p/
+*.pkg.tar.*
+*.src.tar.*
+arch/pkg/
+arch/src/
+ipop.zip
